@@ -159,4 +159,4 @@ ADD_SUBDIRECTORY(doc)
 
 # enable testing must be called here in order for the target test to be created
 ENABLE_TESTING()
-ADD_SUBDIRECTORY(test EXCLUDE_FROM_ALL)
+#ADD_SUBDIRECTORY(test EXCLUDE_FROM_ALL)
